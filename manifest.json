@@ -1,6 +1,6 @@
 {
-  "short_name": "친구들이랑 놀려고 만든 페이지",
-  "name": "친구들이랑 놀려고 만든 페이지",
+  "short_name": "React App",
+  "name": "Create React App Sample",
   "icons": [
     {
       "src": "favicon.ico",
